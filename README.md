@@ -109,3 +109,6 @@ These tools are configured for specific conventions described below.
 
 *It is unwise and rarely possible to run the application, the unit tests, and the e2e tests at the same time.
 We recommend that you shut down one before starting another.*
+
+-[travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
+-[travis-badge-url]: https://travis-ci.org/angular/quickstart
